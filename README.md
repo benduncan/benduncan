@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ben, people call me Bennydee.
 
-As a founder and developer, I have a passion for technology, startups, and contributing back to my community. I call the Sunshine Coast, Australia home and live between the beach and acreage "off-grid" nestled in the Noosa hinterland.
+As a founder and developer, I have a passion for technology, startups, and contributing back to my community. I call the [Sunshine Coast in Noosa](https://goo.gl/maps/ZK9ESJ8AznapQqox5) Australia home and live between the beach and acreage "off-grid" nestled in the Noosa hinterland.
 
 Since 2020 I've joined the [AWS Startups](https://aws.amazon.com/startups/) team in Australia as a solution architect, helping founders and startups grow and scale on AWS. I have the pleasure to work with a wide array of founders and CTO's from startups and scale-ups around Australia, supporting SaaS, FinTech to Life-Sciences startups and everything in between.
 
@@ -15,6 +15,3 @@ Another passion project as co-founder is [Coding From Beach](https://www.meetup.
 I 😍 adventures - I've had the pleasure to travel 3x around Australia by 4x4 as a digital nomad and live 3 years in the stunning Australian environment I call home. My next major adventure is to set sail around the med & live abroad in Japan -- stay tuned!
 
 Learn more on my site [ben-duncan.com](https://ben-duncan.com/)
-
-- 🏢 [LinkedIn](https://au.linkedin.com/in/ben-duncan-61672225)
-- 🪶 [Twitter](https://twitter.com/ben_colo)

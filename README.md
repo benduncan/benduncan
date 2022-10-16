@@ -15,3 +15,6 @@ Another passion project as co-founder is [Coding From Beach](https://www.meetup.
 I 😍 adventures - I've had the pleasure to travel 3x around Australia by 4x4 as a digital nomad and live 3 years in the stunning Australian environment I call home. My next major adventure is to set sail around the med & live abroad in Japan -- stay tuned!
 
 Learn more on my site [ben-duncan.com](https://ben-duncan.com/)
+
+- 🏢 [LinkedIn](https://au.linkedin.com/in/ben-duncan-61672225)
+- 🪶 [Twitter](https://twitter.com/ben_colo)

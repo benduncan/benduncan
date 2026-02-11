@@ -14,7 +14,7 @@ Tech wise, I'm an avid Golang programmer, love learning about Machine learning a
 
 Another passion project as co-founder is [Coding From Beach](https://www.meetup.com/Coding-from-Beach/) a group of 600+ Sunshine Coast-based coders and entrepreneurs. We aim to inspire our local tech community with in-depth technical discussion, encourage networking with like-minded geeks, and connect programmers with entrepreneurs to launch new ventures.
 
-I 😍 adventures - I've had the pleasure to travel 4x around Australia by 4x4 as a digital nomad and live 3 years in the stunning Australian environment I call home. My next major adventure is to set sail around the med & live abroad in Japan -- stay tuned!
+I 😍 adventures - I've had the pleasure to travel 4x around Australia by 4x4 as a digital nomad and live 4 years in the stunning Australian environment I call home. My next major adventure is to set sail around the med & live abroad in Japan -- stay tuned!
 
 Learn more on my site [ben-duncan.com](https://ben-duncan.com/)
 
